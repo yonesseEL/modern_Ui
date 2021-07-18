@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import image from "../assets/hero.png";
-import bg from "../assets/bg.png";
+import image from "../assets/hero2.png";
+import bg from "../assets/b.jpg";
 import HeroText from "./HeroText";
 import Tilt from "react-tilt";
 
@@ -39,7 +39,7 @@ const TiltWrapper = styled(Tilt)`
 `;
 
 const Img = styled.img`
-  width: 100%;
+  width: 82%;
 `;
 
 const InnerWrapper = styled.div`
